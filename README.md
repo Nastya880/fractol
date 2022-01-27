@@ -9,3 +9,5 @@ MiniLibX https://harm-smits.github.io/42docs/libs/minilibx.html
 Algotihms https://flam3.com/flame_draves.pdf
 
 One of my check https://youtu.be/ZHYwlYKLRUM
+
+Find ERROR - in Makefile (don't clean objects in minilib)
